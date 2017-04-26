@@ -1,0 +1,6 @@
+1) Ajouter un Employer
+  CAS 1 :
+    Verification des champs au niveau du serveur
+    Verification si le matricule existe deja ou non
+  CAS 2 :
+    Insertion dans la base de donnée avec un retour toastr
